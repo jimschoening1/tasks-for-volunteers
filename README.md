@@ -3,8 +3,8 @@
 ## Aries Personal Data Store Task list 
 | Description                                                                                                                      | Reporter | assignee | status | Deliverable |
 |----------------------------------------------------------------------------------------------------------------------------------|----------|----------|--------|-------------|
-| 1. Create a Docker Container with Apache Jena Fuseki (triple Store) installed. [Link to download Fuseki]( https://jena.apache.org/documentation/fuseki2/). [Pull From the LTS Ubuntu container]( https://hub.docker.com/_/ubuntu). Use docker-compose and allocate volumes for the triples store. Make sure we can read/write triples to the Fuseki server|          |          | To Do  |             |
-| Create a GUI using a frontend framework  (React, Angular)                                                                        |          |          | To Do  |             |
+| Create a Docker Container with Apache Jena Fuseki (triple Store) installed. [Link to download Fuseki]( https://jena.apache.org/documentation/fuseki2/). [Pull From the LTS Ubuntu container]( https://hub.docker.com/_/ubuntu). Use docker-compose and allocate volumes for the triples store. Make sure we can read/write triples to the Fuseki server|          |          | To Do  |             |
+| 2. Create a GUI using a frontend framework (React, Angular). The GUI must allow individuals the ability to query their data.  |          |          | To Do  |             |
 | Install Hyperledger Aries onto a docker container and  create unique credentials for and individual                              |          |          | To Do  |             |
 | Create a node Server to host a frontend and the api that will update someone personal data                                       |          |          | To Do  |             |
 | Create a transformation script that take a mapping model and instance data and outputs triples that conform to "My Data Ontology |          |          | To Do  |             |
