@@ -11,4 +11,4 @@
 | Design Firewall rules for a docker container that only allow port 8080 to accept POST request with triples                       |          |          | To Do  |             |
 | Find existing data models that organizations use to store PII. Create a registry of data models                                  |          |          | To Do  |             |
 | Pentest Personal date store                                                                                                      |          |          | To Do  |             |
-| Package the My Data Ontology in a repo under the IAM Project. This will include example data models, Instance Data, Schemea Mapping, and a transformation script|----------|Mark|In Progress|[Link To Repo](https://github.com/I-AM-project/my-data-ontology)|
+| Package the My Data Ontology in a repo under the IAM Project. This will include example data models, Instance Data, Schemea Mapping, and a transformation script||Mark|In Progress|[Link To Repo](https://github.com/I-AM-project/my-data-ontology)|
