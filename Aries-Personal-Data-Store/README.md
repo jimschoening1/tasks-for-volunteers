@@ -1,4 +1,6 @@
 ## Aries Personal Data Store Task list 
+> Goal: Develop and test a personal data store (PDS) that utilizes the "My Data Ontology." The PDS must be portable and centered around the individual. 
+
 | Description                                                                                                                      | Reporter | assignee | status | Deliverable |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | ------ | ----------- |
 | Create a Docker Container with Apache  Jena Fuseki triple store install.                                                         |          |          | To Do  |             |
