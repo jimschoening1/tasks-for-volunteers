@@ -1,6 +1,6 @@
 # Tasks For Volunteers
 
-## How work on a Task
+## How Work On a Task
 1. Select a project that you wish to volunteer on from the list below.
 2. Click on the link "View Task List" to find all the tasks associated with the subproject.
 3. Add your name to the Readme file under the assignee column to assign yourself to a task.
