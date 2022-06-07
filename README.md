@@ -14,6 +14,8 @@
 
 
 ### 2. My Data Ontology
-> Goal: Develop and test a personal data store (PDS) that utilizes the "My Data Ontology." The PDS must be portable and centered around the individual. 
+My Data Ontology Task list
+Goal: Develop the My Data Ontology and integration tools
+[My Data Ontology](https://github.com/I-AM-project/my-data-ontology)
 [View Task List](https://github.com/I-AM-project/tasks-for-volunteers/tree/main/My-Data-Ontology)
 
